@@ -1,14 +1,14 @@
 package:
   id: org.deepin.ocr
   name: "deepin-ocr"
-  version: 1.1.0
+  version: 6.5.0.1
   kind: app
   description: |
     Ocr is a text recognition software.
 
 runtime:
   id: org.deepin.Runtime
-  version: 23.0.0
+  version: 6.5.0.1
 
 depends:
   - id: dtkocr
